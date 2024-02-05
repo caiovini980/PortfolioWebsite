@@ -10,7 +10,7 @@ function Intro() {
                 Software Engineer & Game Developer
             </p>
             <p className="text-sm max-w-xl mb-6 font-medium">
-                I'm a game programmer fascinated about the sensation of playing a game, and focused on giving the player the best sensation possible through gameplay. <br />I was able to design, maintain and improve systems through the course of 3 years with multi-disciplinary teams that goes from 5 to 30+ members, always concerned about the quality of the product delivered, and looking for ways to improve the development process for all the team members.
+                I'm a game programmer fascinated about the sensation of playing a game, and focused on giving the player the best sensation possible through gameplay. I was able to design, maintain and improve systems through the course of 3 years with multi-disciplinary teams that goes from 5 to 30+ members, always concerned about the quality of the product delivered, and looking for ways to improve the development process for all the team members.
             </p>
         </div>
     )
